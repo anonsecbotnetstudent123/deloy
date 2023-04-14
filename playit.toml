@@ -1,0 +1,9 @@
+last_update = 1681474091735
+api_url = "https://api.playit.cloud/agent"
+ping_target_addresses = ["23.133.216.1:5530", "ping.ply.gg"]
+control_address = "control.playit.gg"
+refresh_from_api = true
+api_refresh_rate = 5000
+ping_interval = 5000
+secret_key = "689974c9ea8cdb94ff69bbbf9efbfb8979571ab10bda4f7cf5af7403e1aea9a4"
+mappings = []
